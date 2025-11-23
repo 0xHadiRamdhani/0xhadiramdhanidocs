@@ -26,7 +26,11 @@ const About = () => {
 
         <motion.div {...ContentAnimation} className="relative order-1 my-10 w-3/4 text-justify md:order-2 md:my-0 md:w-1/4">
           <p className="text-md font-light text-primary-light">
-            {`Hello! My name is Muhamad Rijal, you can call me Rijal, Euxzy, CicakUngu or whatever you want. I'm a Front-end Developer located in West Java, Indonesia. As a Front-end Develover I used to code websites from stratch. I love to create simple yet beautiful websites with great user experience.`}
+            {`Hello! Saya Hadi Ramdhani, seorang siswa SMK yang memiliki minat besar di bidang programming. Saya aktif belajar dan mengembangkan keterampilan pemrograman melalui berbagai proyek pribadi dan kegiatan sekolah. Fokus utama saya adalah memahami dasar-dasar pengembangan perangkat lunak, mempelajari bahasa pemrograman modern, serta membangun aplikasi sederhana yang bermanfaat.
+
+Saya memiliki ketertarikan kuat pada bidang frontend development, mobile development, serta eksplorasi teknologi seperti Flutter, Python, dan web development. Selain itu, saya senang memecahkan masalah melalui logika pemrograman dan terus berusaha meningkatkan kemampuan melalui praktik langsung, membaca dokumentasi, serta mengikuti perkembangan teknologi terbaru.
+
+Sebagai pelajar, saya berkomitmen untuk terus berkembang, beradaptasi dengan teknologi baru, serta mempersiapkan diri untuk berkarier di dunia IT sebagai pengembang perangkat lunak yang profesional.`}
           </p>
         </motion.div>
       </section>

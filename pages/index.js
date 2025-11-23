@@ -23,8 +23,13 @@ const Home = () => {
 
         <motion.div {...ContentAnimation} className="relative order-1 w-1/3 md:order-2">
           <h3 className="-mb-5 text-base font-normal">Hi! My name is</h3>
-          <h1 className="-ml-1 mb-1 text-7xl font-bold text-primary-light">euxzy</h1>
-          <h4 className="text-sm font-light transition-all duration-500 hover:text-primary-light">Front-end Dev</h4>
+          <h1 className="-ml-1 mb-1 text-7xl font-bold text-primary-light">Hadi Ramdhani</h1>
+          <h4 className="text-sm font-light transition-all duration-500 hover:text-primary-light">SMK Student & Programming Enthusiast</h4>
+          <p className="mt-4 text-xs font-light leading-relaxed text-gray-600">
+            Seorang siswa SMK yang memiliki minat besar di bidang programming.
+            Aktif belajar dan mengembangkan keterampilan pemrograman melalui berbagai proyek pribadi.
+            Fokus pada frontend development, mobile development, Flutter, Python, dan web development.
+          </p>
         </motion.div>
       </section>
     </Layouts>
