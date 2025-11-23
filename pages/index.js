@@ -8,7 +8,7 @@ const Home = () => {
     <Layouts>
       <section className="relative flex w-full flex-col items-center justify-evenly py-40 md:h-screen md:flex-row md:overflow-hidden">
         <motion.span {...FadeAnimation} className="title-page">
-          EUXZY
+          HADI RAMDHANI
         </motion.span>
 
         <motion.div {...ContentAnimation} className="relative order-2 flex w-1/2 justify-end md:order-1 md:w-1/3">
